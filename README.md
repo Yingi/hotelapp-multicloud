@@ -1,5 +1,5 @@
 # hotelapp-multicloud
-Implementing a Multicloud (AWS and GCP) solution for a Hotel App
+Implementing a Multicloud (AWS and GCP) solution for a Hotel App [Step 1](Step 1/build.md)
 
 # Step 1
 In this step, we will be Provisioning Kubernetes and SQL on GCP. We will also create an s3 bucket on aws that will be used store the cover test pdf files.

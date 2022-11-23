@@ -1,4 +1,4 @@
-# STEP 2
+# Stage 2
 
 In this step, we will be deploying our application containers to the Kubernetes cluster we provisioned on Google Cloud Platform
 

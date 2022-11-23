@@ -1,4 +1,4 @@
-# Step 1
+# Stage 1
 In this step, we will be Provisioning Kubernetes and SQL on GCP. We will also create an s3 bucket on aws that will be used store the cover test pdf files.
 
 ## CREATE AN AWS ACCOUNT.

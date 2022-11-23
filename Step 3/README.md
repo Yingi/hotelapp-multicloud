@@ -1,4 +1,4 @@
-# STEP 3
+# Stage 3
 
 In this step we will be migrating the database and cover test files from the on-premise network to the GCP and AWS respectively
 
